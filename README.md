@@ -244,11 +244,19 @@ configuration reported in the paper. Note: `amp: True` enables BF16 autocast on 
 
 ## Citation
 
-If you use this code, please cite the LEAP paper (full reference to be added on publication):
+If you find this work useful in your research, please consider citing:
 
-> C. Moya-Mota, I. Aguilera-Martos, D. García-Gil, J. Luengo.
-> *LEAP: a Latent Embedding Anomaly Patch-Transformer for time-series anomaly
-> detection.*
+```bibtex
+@misc{moyamota2026leaplatentembeddinganomaly,
+      title={LEAP: a Latent Embedding Anomaly Patch-Transformer for time-series anomaly detection}, 
+      author={Cristhian Moya-Mota and Ignacio Aguilera-Martos and Diego García-Gil and Julián Luengo},
+      year={2026},
+      eprint={2610.35190},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2610.35190}, 
+}
+```
 
 DaSCI Institute, University of Granada.
 
